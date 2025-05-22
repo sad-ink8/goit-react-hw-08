@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(220, 239, 192);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+h1,
+p,
+label,
+button,
+span {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0;
+  margin: 0;
+  color: rgb(17, 87, 0);
+}

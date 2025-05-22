@@ -1,0 +1,12 @@
+.contactList {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 24px;
+  margin-top: 32px;
+}
+
+.contactItem {
+  background-color: rgba(111, 222, 0, 0.195);
+  padding: 16px;
+  border-radius: 16px;
+}

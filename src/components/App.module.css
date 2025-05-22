@@ -1,0 +1,9 @@
+.contentWrapper {
+  justify-self: center;
+  width: 496px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(249, 254, 242);
+  border-radius: 24px;
+  padding: 32px 16px;
+}
