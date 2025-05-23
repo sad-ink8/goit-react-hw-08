@@ -1,0 +1,7 @@
+.headerBar {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  background-color: rgb(170, 229, 108);
+  padding: 16px;
+}

@@ -1,0 +1,12 @@
+.Nav {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+
+.NavL {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0;
+  margin: 0;
+  color: rgb(17, 87, 0);
+}
