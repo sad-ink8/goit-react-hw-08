@@ -9,7 +9,6 @@ export default function RegistrationForm() {
   const handleSubmit = (values, actions) => {
     dispatch(register(values));
     actions.resetForm();
-    console.log("Submitting register:", values);
   };
 
   const schema = Yup.object({
